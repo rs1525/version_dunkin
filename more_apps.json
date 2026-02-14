@@ -1,0 +1,40 @@
+{
+  "apps": [
+    {
+      "name": "Lunex for Kwgt",
+      "description": "Beautiful widgets with interactive design and 3D effect",
+      "iconUrl": "https://i.ibb.co/qLggdCMT/logo-lunex.png",
+      "screenshotUrls": [
+        "https://i.ibb.co/4g0nnZtZ/lunex1.png"
+      ],
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.akustom15.lunex"
+    },
+    {
+      "name": "GlassWave Icons Pack",
+      "description": "Modern and elegant icon pack with Glassmorphic effect, check it out now.",
+      "iconUrl": "https://raw.githubusercontent.com/rs1525/lunex_for_kwgt/d8f9e1fdc022eef412ba00fb6191d73a66192e90/icono_glasswave.png",
+      "screenshotUrls": [
+        "https://res.cloudinary.com/dm1kjgysl/image/upload/v1770468496/glasswave_oj2yki.png"
+      ],
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.akustom15.glasswave"
+    },
+    {
+      "name": "Zyra Icon Pack & Widgets",
+      "description": "Dark icons with depth and functional native widgets",
+      "iconUrl": "https://raw.githubusercontent.com/rs1525/lunex_for_kwgt/d8f9e1fdc022eef412ba00fb6191d73a66192e90/icono_zyra.png",
+      "screenshotUrls": [
+        "https://res.cloudinary.com/dm1kjgysl/image/upload/v1770468508/zyra_playstore_1_bjtcuy.png"
+      ],
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.akustom15.zyra"
+    },
+    {
+      "name": "Neumorphic 3D Fusion for KLWP",
+      "description": "Customize your screen with 3D effects",
+      "iconUrl": "https://raw.githubusercontent.com/rs1525/lunex_for_kwgt/d8f9e1fdc022eef412ba00fb6191d73a66192e90/icono_Neumorphic%203D%20Fusion%20for%20Klwp.png",
+      "screenshotUrls": [
+        "https://res.cloudinary.com/dm1kjgysl/image/upload/v1770468472/neumorphic_oowdbr.png"
+      ],
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=my.app.neumorphic3dfusionforklwp.pack"
+    }
+  ]
+}
